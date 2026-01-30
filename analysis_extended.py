@@ -6,7 +6,7 @@ computes summary statistics, plots a correlation matrix and trains several class
 Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbours and SVC.
 It also performs cross-validation to compare model performance. The dataset has
 569 samples with 30 real-valued features and a binary target indicating
-malignant (0) or benign (1) tumours【154549963299770†L679-L701】.
+malignant (0) or benign (1) tumours
 """
 
 import sqlite3
