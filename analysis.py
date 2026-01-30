@@ -10,7 +10,7 @@ numeric features and a binary target indicating whether the tumour is
 malignant (0) or benign (1).  According to the scikit‑learn documentation,
 the dataset has two classes (malignant and benign), with 212 malignant
 samples and 357 benign samples, giving 569 samples in total and 30
-positive‑valued features【154549963299770†L679-L701】.
+positive‑valued features.
 
 The goals of this script are:
 
