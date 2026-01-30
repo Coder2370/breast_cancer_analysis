@@ -7,7 +7,7 @@ of breast masses.  Each of the 569 samples has 30 numeric features and a
 binary label indicating whether the tumour is malignant or benign.  According
 to the scikit‑learn documentation, the dataset contains two classes with
 212 malignant and 357 benign samples (569 total) and 30 positive‑valued
-features【154549963299770†L679-L701】.
+features.
 
 ## Objectives
 
@@ -26,11 +26,11 @@ features【154549963299770†L679-L701】.
 The Breast Cancer Wisconsin (Diagnostic) dataset is a well‑known
 classification benchmark.  Its main characteristics are:
 
-- **Classes:** two (malignant and benign)【154549963299770†L679-L701】.
-- **Samples per class:** 212 malignant, 357 benign【154549963299770†L679-L701】.
-- **Total samples:** 569【154549963299770†L679-L701】.
-- **Dimensionality:** 30 numeric features【154549963299770†L679-L701】.
-- **Features:** real, positive values computed from FNA images【154549963299770†L679-L701】.
+- **Classes:** two (malignant and benign).
+- **Samples per class:** 212 malignant, 357 benign.
+- **Total samples:** 569.
+- **Dimensionality:** 30 numeric features.
+- **Features:** real, positive values computed from FNA images.
 
 The `sklearn.datasets.load_breast_cancer` function downloads a copy of the
 dataset and returns it as a dictionary‑like object.  Setting
